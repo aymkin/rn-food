@@ -8,7 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "eslint": "^6.6.0",
+    "eslint": "^7.31.0",
     "expo": "^35.0.0",
     "prettier": "^1.19.1",
     "react": "16.14.0",
