@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "eslint": "^6.6.0",
-    "expo": "^35.0.0",
+    "expo": "^50.0.0",
     "prettier": "^1.19.1",
     "react": "16.14.0",
     "react-dom": "16.14.0",
@@ -21,7 +21,7 @@
     "react-navigation-stack": "1.10.3"
   },
   "devDependencies": {
-    "babel-preset-expo": "7.1.0"
+    "babel-preset-expo": "10.0.1"
   },
   "private": true
 }
